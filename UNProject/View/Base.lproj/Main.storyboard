@@ -27,7 +27,7 @@
                                 </constraints>
                                 <state key="normal" title="animateButton"/>
                             </button>
-                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="eXX-Xb-JAf" userLabel="impactImage">
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="un app layout" translatesAutoresizingMaskIntoConstraints="NO" id="eXX-Xb-JAf" userLabel="impactImage">
                                 <rect key="frame" x="0.0" y="410" width="375" height="137"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="137" id="yki-vp-oak"/>
@@ -67,4 +67,7 @@
             <point key="canvasLocation" x="133.59999999999999" y="133.5832083958021"/>
         </scene>
     </scenes>
+    <resources>
+        <image name="un app layout" width="698" height="448"/>
+    </resources>
 </document>
